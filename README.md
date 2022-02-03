@@ -1,3 +1,7 @@
-# dio-sportheca-mobile-
-Bootcamp Sportheca Mobile - DIO
-Atualizações dos estudos durante o Bootcamp.
+# dio-sportheca-mobile
+Bootcamp Sportheca Mobile - DIO 
+
+Esse repositório é para estudos e projetos durante o Bootcamp.
+
+
+👩🏽‍💻🚀
